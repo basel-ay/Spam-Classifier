@@ -6,3 +6,4 @@ Naive Bayes classifiers are a popular statistical technique of e-mail filtering.
 
 https://spamcls.herokuapp.com/
 
+![](ezgif.com-gif-maker.gif)
